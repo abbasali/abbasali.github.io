@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Empowering young minds through modern web development.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Abbas' passion for education and knowledge sharing extends far beyond his corporate responsibilities, as he actively serves as a Professor of Practice at Ramdeobaba University in Nagpur, where he specializes in teaching Laravel and Vue.js development to Computer Science and Engineering students**. His role at the university is centered on bridging the critical gap between academic theory and industry practice, ensuring that students are equipped with the practical skills and real-world expertise needed to excel in professional programming environments. Abbas brings his extensive 15+ years of industry experience directly into the classroom, teaching students not just the technical aspects of Laravel framework and Vue.js frontend development, but also industry best practices, scalable architecture principles, and modern development workflows. His hands-on approach to teaching, combined with his deep understanding of these technologies as both a practitioner and business leader, provides students with invaluable insights into how these tools are actually used in professional settings to build robust, scalable web applications.
 
-Organize your courses by years, topics, or universities, however you like!
+**Beyond his formal teaching role at Ramdeobaba University, Abbas is a sought-after guest lecturer who regularly visits various engineering colleges across Nagpur to share his expertise and inspire the next generation of developers**. His guest lectures focus primarily on web development technologies, with a special emphasis on Laravel and Vue.js, as he believes these modern frameworks are essential tools for today's web developers. Abbas's genuine love for spreading knowledge about web development languages, particularly Laravel, drives him to actively seek opportunities to introduce these technologies to young minds who are just beginning their programming journey. Through his engaging presentations and interactive sessions, he not only teaches technical concepts but also shares insights about career development, industry trends, and the importance of continuous learning in the rapidly evolving tech landscape. His dedication to education stems from his belief that empowering young developers with modern, industry-relevant skills is crucial for building a stronger technology ecosystem in India.

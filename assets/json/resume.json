@@ -1,157 +1,165 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Abbas Ali",
+    "label": "Technology Leader",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "abbas@ranium.in",
+    "phone": "",
+    "url": "https://abbasali.net",
+    "summary": "A visionary technology leader and entrepreneur with over 15 years of experience in software development, team leadership, and business strategy",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "22B, Ambar, Tilak Nagar",
+      "postalCode": "440010",
+      "city": "Nagpur",
+      "countryCode": "IN",
+      "region": "Maharashtra"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "_abbas",
+        "url": "https://x.com/_abbas"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Ranium Systems Pvt. Ltd.",
+      "position": "Director & CTO",
+      "url": "https://ranium.in",
+      "startDate": "2012-07-01",
+      "summary": "As a hands-on technology leader, I combine strategic business oversight with active coding involvement, personally overseeing project architecture and team management. Under my leadership, Ranium has expanded from traditional web development to cutting-edge AI/ML solutions, serving diverse industries while maintaining exceptional quality standards through my Certified Scrum Master methodology.",
+      "highlights": ["Team Management", "Web Development", "Laravel"]
+    },
+    {
+      "name": "Sanisoft Technologies",
+      "position": "Technical Manager",
+      "startDate": "2004-04-01",
+      "endDate": "2012-06-30",
+      "summary": "Managed projects and teams working with various web developing technologies",
+      "highlights": ["Project Management", "Web Development", "PHP"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Laracon India",
+      "location": "India (various cities)",
+      "position": "Co-organizer",
+      "url": "https://laracon.in",
+      "startDate": "2022-08-01",
+      "summary": "Manage all aspects of speaker coordination, talk curation, and sponsor relationships to ensure a world-class experience for the Laravel community.",
+      "highlights": ["Hosted a technical quiz at 2023 and 2024 conferences.", "Built an interactive game for attendee connections at 2025 edition."]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Rashtrasant Tukadoji Maharaj Nagpur University",
+      "location": "Nagpur, India",
+      "url": "https://nagpuruniversity.ac.in/",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "1999-07-01",
+      "endDate": "2003-05-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": []
+    },
+    {
+      "institution": "Hislop College",
+      "location": "Nagpur, India",
+      "url": "https://hislopcollege.ac.in/",
+      "area": "Science",
+      "studyType": "Higher Secondary School",
+      "startDate": "1997-07-01",
+      "endDate": "1999-06-01",
+      "score": "10",
+      "courses": []
+    },
+    {
+      "institution": "Bishop Cotton School",
+      "location": "Nagpur, India",
+      "studyType": "Secondary School",
+      "startDate": "1987-07-01",
+      "endDate": "1997-06-01",
+      "score": "10",
+      "courses": []
     }
   ],
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Zend Certified PHP Engineer",
+      "date": "",
+      "issuer": "Zend",
+      "url": "https://www.zend.com/training/php-certification-exam",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Certified ScrumMaster® (CSM®)",
+      "date": "",
+      "issuer": "Scrum Alliance",
+      "url": "https://certification.scrumalliance.org/accounts/773795-abbas-ali/certifications/877414-csm",
+      "icon": "fa-solid fa-tag"
     }
   ],
   "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+    
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming & Frameworks",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "PHP",
+        "Laravel",
+        "VueJS",
+        "ReactJS",
+        "CakePHP",
+        "Wordpress"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-cloud-arrow-up",
+      "keywords": [
+        "Amazon Web Services",
+        "Google Cloud",
+        "Microsoft Azure"
+      ]
+    },
+    {
+      "name": "AI/ML Technologies",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hexagon-nodes",
+      "keywords": [
+        "Large Language Models (LLMs)",
+        "OpenAI API Integration",
+        "HuggingFace",
+        "Generative AI Solutions",
+        "MCP Servers & Clients"
+      ]
+    },
+    {
+      "name": "Leadership & Management",
+      "level": "Master",
+      "icon": "fa-solid fa-people-roof",
+      "keywords": [
+        "Product Management",
+        "Agile Project Management",
+        "Certified Scrum Master",
+        "Multi-team Management",
+        "Remote Team Coordination",
+        "Developer Mentoring",
+        "End-to-end Project Oversight"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -159,42 +167,69 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Marathi",
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Technology",
+      "icon": "fa-solid fa-terminal",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Web Programming Languages",
+        "Web Frameworks",
+        "Artificial Intelligence",
+        "Web Security"
+      ]
+    },
+    {
+      "name": "Others",
+      "icon": "fa-solid fa-puzzle-piece",
+      "keywords": [
+        "Travelling",
+        "Movies",
+        "Food"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Matt Pipkin",
+      "icon": "fa-solid fa-user",
+      "reference": "I've worked with Abbas and his team for almost 3 years now - he's fantastic and I've gotten nothing but great results. Beside being great to work with on a human level, Abbas always communicates well, gets the job done right the first time, and the quality of the development work is premium. I'm very pleased with the results I've gotten and I have nothing but positive things to say about Abbas and his team. Thank you, my friend! :)"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Ron Reeves",
+      "icon": "fa-solid fa-user",
+      "reference": "Abbas is a great technical resource with deep knowledge and has a world class team of developers. I have worked with Abbas on two significant projects so far and look forward to engaging him on several others. His breadth of knowledge is wide and covers not only the specific application development domains we hired him for, but best practices for running the project, setting up environments and the full spectrum of DevOps."
+    },
+    {
+      "name": "Sanjiv Prabhakaran",
+      "icon": "fa-solid fa-user",
+      "reference": "I have worked with Abbas and his team for 8+ years and he has delivered amazing results all the time. Our clients are always impressed of the work coming out of Abbas’ team. He is extremely knowledgeable from both the business as well as the technology aspects and can help clients figure out the ideal solution to meet their pain points. His team of resources are top-notch and they provide the best flexibility in addressing challenging issues. Their deep knowledge of backend systems in PHP, LAMP architecture and mobile app development made it easy for our team to deliver quality products to our clients. Abbas is very pleasant to work with and provides the highest integrity in a business relationship."
+    },
+    {
+      "name": "Adam McWethy",
+      "icon": "fa-solid fa-user",
+      "reference": "Each time my company had a challenge development project, the first person we turn to is Abbas. The work is high quality, error free and priced fairly. Simply put - Abbas gets the job done."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "My Junna",
+      "summary": "My Junna is a comprehensive healthcare management platform designed to facilitate secure patient data management and healthcare provider communications while maintaining strict HIPAA compliance standards. As the technical lead, I directed a specialized team of Laravel backend and Vue.js frontend developers to deliver a robust, secure, and user-friendly healthcare solution.",
+      "highlights": ["Technical Lead", "DevOps", "Data Analytics"],
+      "startDate": "2023-01-01",
+      "endDate": "2025-04-01",
+      "url": "https://myjunna.com"
     }
   ]
 }

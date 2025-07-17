@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-new-website-launch-embracing-static-site-generation",
+        },{id: "post-my-programming-journey",
+        
+          title: "My Programming Journey",
+        
+        description: "From PHP Beginnings to Laravel Leadership",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/php-laravel-journey/";
+          
+        },
+      },{id: "news-new-website-launch-embracing-static-site-generation",
           title: 'New Website Launch - Embracing Static Site Generation',
           description: "",
           section: "News",handler: () => {

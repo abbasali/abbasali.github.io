@@ -64,4 +64,4 @@ To all the developers reading this: embrace the journey, stay curious, and never
 
 ---
 
-*What's your programming journey been like? I'd love to hear your story in the comments below.*
+_What's your programming journey been like? I'd love to hear your story in the comments below._

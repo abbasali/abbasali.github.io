@@ -84,9 +84,7 @@
       "courses": []
     }
   ],
-  "awards": [
-
-  ],
+  "awards": [],
   "certificates": [
     {
       "name": "Zend Certified PHP Engineer",
@@ -103,44 +101,25 @@
       "icon": "fa-solid fa-tag"
     }
   ],
-  "publications": [
-    
-  ],
+  "publications": [],
   "skills": [
     {
       "name": "Programming & Frameworks",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PHP",
-        "Laravel",
-        "VueJS",
-        "ReactJS",
-        "CakePHP",
-        "Wordpress"
-      ]
+      "keywords": ["PHP", "Laravel", "VueJS", "ReactJS", "CakePHP", "Wordpress"]
     },
     {
       "name": "DevOps",
       "level": "Intermediate",
       "icon": "fa-solid fa-cloud-arrow-up",
-      "keywords": [
-        "Amazon Web Services",
-        "Google Cloud",
-        "Microsoft Azure"
-      ]
+      "keywords": ["Amazon Web Services", "Google Cloud", "Microsoft Azure"]
     },
     {
       "name": "AI/ML Technologies",
       "level": "Intermediate",
       "icon": "fa-solid fa-hexagon-nodes",
-      "keywords": [
-        "Large Language Models (LLMs)",
-        "OpenAI API Integration",
-        "HuggingFace",
-        "Generative AI Solutions",
-        "MCP Servers & Clients"
-      ]
+      "keywords": ["Large Language Models (LLMs)", "OpenAI API Integration", "HuggingFace", "Generative AI Solutions", "MCP Servers & Clients"]
     },
     {
       "name": "Leadership & Management",
@@ -183,21 +162,12 @@
     {
       "name": "Technology",
       "icon": "fa-solid fa-terminal",
-      "keywords": [
-        "Web Programming Languages",
-        "Web Frameworks",
-        "Artificial Intelligence",
-        "Web Security"
-      ]
+      "keywords": ["Web Programming Languages", "Web Frameworks", "Artificial Intelligence", "Web Security"]
     },
     {
       "name": "Others",
       "icon": "fa-solid fa-puzzle-piece",
-      "keywords": [
-        "Travelling",
-        "Movies",
-        "Food"
-      ]
+      "keywords": ["Travelling", "Movies", "Food"]
     }
   ],
   "references": [

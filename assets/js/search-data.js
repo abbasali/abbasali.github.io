@@ -46,7 +46,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/website-launch/";
-            },},{
+            },},{id: "news-excited-to-announce-that-i-ll-be-attending-laraconus-in-denver-this-year-looking-forward-to-connecting-with-the-laravel-community-learning-from-amazing-speakers-and-sharing-insights-from-my-experience-co-organizing-laraconin",
+          title: 'Excited to announce that I’ll be attending LaraconUS in Denver this year! Looking...',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

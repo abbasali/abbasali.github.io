@@ -49,7 +49,12 @@ ninja.data = [{
             },},{id: "news-excited-to-announce-that-i-ll-be-attending-laraconus-in-denver-this-year-looking-forward-to-connecting-with-the-laravel-community-learning-from-amazing-speakers-and-sharing-insights-from-my-experience-co-organizing-laraconin",
           title: 'Excited to announce that I’ll be attending LaraconUS in Denver this year! Looking...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-laraconus-2025-an-amazing-experience",
+          title: 'LaraconUS 2025 - An Amazing Experience',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/laracon-us-2025-recap/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

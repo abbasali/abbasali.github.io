@@ -6,7 +6,7 @@ subtitle: <a href='https://ranium.in'>Technology Leader</a>. Laravel Expert. AI 
 
 profile:
   align: right
-  image: abbas.png
+  image: abbas-az.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ranium Systems</p>

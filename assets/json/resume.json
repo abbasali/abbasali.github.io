@@ -194,12 +194,33 @@
   ],
   "projects": [
     {
+      "name": "Medivertex",
+      "summary": "MediVerteX Unified Web + App is a secure, AI-powered documentation platform built for healthcare professionals to manage patient records seamlessly across web and mobile interfaces. Designed with full HIPAA compliance, it enables real-time transcription, note-taking, and data access in clinical, hospital, or remote settings. As the technical lead, I guided a cross-functional team of Laravel backend and Vue.js frontend developers to deliver an intuitive, scalable, and secure healthcare solution.",
+      "highlights": ["Artificial Intelligence", "DevOps", "Healthcare Compliance"],
+      "startDate": "2025-01-01",
+      "url": "https://medivertex.com"
+    },
+    {
       "name": "My Junna",
       "summary": "My Junna is a comprehensive healthcare management platform designed to facilitate secure patient data management and healthcare provider communications while maintaining strict HIPAA compliance standards. As the technical lead, I directed a specialized team of Laravel backend and Vue.js frontend developers to deliver a robust, secure, and user-friendly healthcare solution.",
       "highlights": ["Technical Lead", "DevOps", "Data Analytics"],
       "startDate": "2023-01-01",
       "endDate": "2025-04-01",
       "url": "https://myjunna.com"
+    },
+    {
+      "name": "Detected",
+      "summary": "A leading KYB (Know Your Business) automation platform built to accelerate and simplify business onboarding for global financial institutions, marketplaces, and payment providers. Since 2020, it has become one of the most trusted solutions in the industry, replacing outdated processes like manual checks, spreadsheets, and email-based communication with intelligent automation and real-time risk monitoring. As the Technical Lead, I guided a team of API-focused developers to deliver a scalable, secure, and modern onboarding experience with continuous KYB verification and risk management at its core.",
+      "highlights": ["Technical Lead", "API-first Architecture", "Risk Intelligence & Monitoring", "Business Verification Automation"],
+      "startDate": "2020-01-01",
+      "url": "https://detected.co"
+    },
+    {
+      "name": "DeeprootsBible LMS",
+      "summary": "DeepRoots is a dynamic digital Bible curriculum actively used across various American schools. It features dedicated interfaces for students and teachers, each unit enriched with multimedia components like illustrations, photos, videos, crescendos, and auto-graded assessments to enhance the learning experience. As a technical lead, I managed a cross-functional team to build and scale its custom content management system, enabling seamless multimedia integration within lesson units. Teachers have control over grading, assessment access, and unit visibility.",
+      "highlights": ["Technical Lead", "EdTech Integrations", "Clever Integration", "Google Classroom Integration", "Salesforce Integration"],
+      "startDate": "2014-01-01",
+      "url": "https://deeprootsbible.com"
     }
   ]
 }
